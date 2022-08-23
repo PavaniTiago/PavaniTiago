@@ -1,4 +1,6 @@
+
 ### Olá! Eu sou o Tiago ✌️
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavaniTiago&show_icons=true&theme=dracula)
 
@@ -9,3 +11,7 @@
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
+<br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavaniTiago)](https://github.com/anuraghazra/github-readme-stats)
