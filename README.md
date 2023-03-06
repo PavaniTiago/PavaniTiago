@@ -5,7 +5,6 @@
 ## Sobre mim:
 <p>Sou frontEnd web developer, e constantemente aprendendo tecnologias e estudando.</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavaniTiago&show_icons=true&theme=dracula)
 
 # :rocket: My Skills
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -16,5 +15,6 @@
 <br/>
 <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavaniTiago&show_icons=true&theme=dracula)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PavaniTiago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
