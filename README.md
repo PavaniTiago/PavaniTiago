@@ -1,20 +1,8 @@
 
 # Welcome!!!
 
-<br/>
-
-## Sobre mim:
-<p>Sou Dev FullStack há 5 anos no mercado, construindo softwares, desenvolvendo aplicações, constantemente aprendendo tecnologias e estudando.</p>
-
-# :rocket: My Skills
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<br/>
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavaniTiago&show_icons=true&theme=dracula)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PavaniTiago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## About me
+ - 👋 My name is Tiago Pavani and I'm a Fullstack Developer from Salto, Brazil
+- ⏱️ 5+ years of experience on FullStack role
+- 🧑‍💻 Expertise: ReactJS, Next.js, TypeScript, TailwindCSS, Node.js, Express.js, Fastify, NestJS, Redux, Styled Components, Jest, Vitest, Trpc, Hono, Docker, MUI, PostreSQL, MySql, Prisma.
+- 📫 Contact me: <a href="https://www.linkedin.com/in/tiago-pavani-19a427245/" target="_blank">LinkedIn</a> | <a href="mailto:tiagopavanibtw@gmail.com" target="_blank">Email</a>
