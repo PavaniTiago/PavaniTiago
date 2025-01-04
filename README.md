@@ -4,7 +4,7 @@
 <br/>
 
 ## Sobre mim:
-<p>Sou frontEnd web developer, e constantemente aprendendo tecnologias e estudando.</p>
+<p>Sou Dev FullStack há 5 anos no mercado, construindo softwares, desenvolvendo aplicações, constantemente aprendendo tecnologias e estudando.</p>
 
 # :rocket: My Skills
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
